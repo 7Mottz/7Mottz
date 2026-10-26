@@ -1,4 +1,4 @@
-# Olá, eu sou o Lucas 👋
+# Olá, eu sou o Lucas 
 
 **Analytics Engineer · dados, automação e IA aplicada** — Curitiba, PR 🇧🇷
 
