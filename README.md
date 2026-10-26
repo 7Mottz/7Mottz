@@ -1,4 +1,4 @@
-# Olá, eu sou o Lucas Motta
+# Olá, eu sou o Lucas 👋
 
 **Analytics Engineer · dados, automação e IA aplicada** — Curitiba, PR 🇧🇷
 
@@ -25,4 +25,4 @@ Transformo planilhas soltas e processos manuais em pipelines, automações e das
 Pós em Engenharia de IA Aplicada (em andamento) · ADS — PUCRS (em andamento) · Engenharia de Bioprocessos e Biotecnologia — Universidade Positivo
 
 ### 📫 Contato
-[LinkedIn](https://www.linkedin.com/in/lucas-motta26/) · lucasbellomotta@hotmail.com
+[LinkedIn](https://www.linkedin.com/in/lucas-motta26/) · [lucasbellomotta@hotmail.com](mailto:lucasbellomotta@hotmail.com)
