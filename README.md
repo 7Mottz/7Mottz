@@ -25,4 +25,4 @@ Transformo planilhas soltas e processos manuais em pipelines, automações e das
 Pós em Engenharia de IA Aplicada (em andamento) · ADS — PUCRS (em andamento) · Engenharia de Bioprocessos e Biotecnologia — Universidade Positivo
 
 ### 📫 Contato
-[LinkedIn](https://www.linkedin.com/in/SEU-LINKEDIN) · SEU-EMAIL@gmail.com
+[LinkedIn](https://www.linkedin.com/in/lucas-motta26/) · lucasbellomotta@hotmail.com
